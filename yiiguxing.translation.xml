@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="模拟器" />
+      <item value="模拟" />
       <item value="ceil" />
       <item value="金额" />
       <item value="Decimal" />
@@ -9,7 +11,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="2" />
+        <entry key="ENGLISH" value="3" />
       </map>
     </option>
   </component>
