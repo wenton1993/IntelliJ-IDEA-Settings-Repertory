@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="账务" />
+      <item value="账" />
+      <item value="对账" />
+      <item value="购买对账" />
       <item value="第五天" />
       <item value="第四天" />
       <item value="第三天" />
