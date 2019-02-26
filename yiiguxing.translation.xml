@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="交易" />
+      <item value="交易类型" />
+      <item value="服务费" />
+      <item value="总金额" />
+      <item value="商户编号" />
       <item value="apache" />
       <item value="账务" />
       <item value="账" />
@@ -22,8 +27,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="4" />
+        <entry key="CHINESE" value="4" />
+        <entry key="ENGLISH" value="5" />
       </map>
     </option>
   </component>
