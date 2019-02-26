@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="外部键值" />
+      <item value="到账日期" />
+      <item value="银行卡号" />
+      <item value="收款银行机构号" />
+      <item value="收款方名称" />
+      <item value="payment" />
+      <item value="资金种类" />
       <item value="兑付" />
       <item value="购买" />
       <item value="自然日期" />
@@ -30,8 +37,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="CHINESE" value="5" />
+        <entry key="ENGLISH" value="6" />
       </map>
     </option>
   </component>
