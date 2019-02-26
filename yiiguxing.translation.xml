@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="兑付" />
+      <item value="购买" />
       <item value="自然日期" />
       <item value="交易" />
       <item value="交易类型" />
