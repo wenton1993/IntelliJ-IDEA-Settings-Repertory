@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="核对支付账单" />
+      <item value="前三天" />
+      <item value="公共服务" />
       <item value="对账" />
       <item value="外部键值" />
       <item value="到账日期" />
