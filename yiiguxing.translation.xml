@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="对账" />
       <item value="外部键值" />
       <item value="到账日期" />
       <item value="银行卡号" />
@@ -19,7 +20,6 @@
       <item value="apache" />
       <item value="账务" />
       <item value="账" />
-      <item value="对账" />
       <item value="购买对账" />
       <item value="第五天" />
       <item value="第四天" />
