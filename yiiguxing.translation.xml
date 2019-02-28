@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="路径前缀" />
       <item value="核对支付账单" />
       <item value="前三天" />
       <item value="公共服务" />
