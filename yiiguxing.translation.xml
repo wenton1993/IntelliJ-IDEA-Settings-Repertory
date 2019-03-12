@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="基金结算" />
+      <item value="转账给外贸" />
       <item value="期数" />
       <item value="层级" />
       <item value="iterator" />
