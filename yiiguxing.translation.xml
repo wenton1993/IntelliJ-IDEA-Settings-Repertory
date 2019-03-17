@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="交易" />
       <item value="加密" />
       <item value="encrypt" />
       <item value="declared" />
@@ -27,7 +28,6 @@
       <item value="兑付" />
       <item value="购买" />
       <item value="自然日期" />
-      <item value="交易" />
       <item value="交易类型" />
       <item value="服务费" />
       <item value="总金额" />
