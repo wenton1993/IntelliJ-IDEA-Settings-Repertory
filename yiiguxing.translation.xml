@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="调查问卷" />
+      <item value="风险申明书" />
+      <item value="合同" />
       <item value="pull up" />
       <item value="基金收款记录查询" />
       <item value="交易" />
@@ -48,14 +51,11 @@
       <item value="模拟器" />
       <item value="模拟" />
       <item value="ceil" />
-      <item value="金额" />
-      <item value="Decimal" />
-      <item value="合同" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="ENGLISH" value="10" />
       </map>
     </option>
   </component>
