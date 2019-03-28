@@ -1,10 +1,5 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="TranslationToolBar" is_group="true" action_type="-1" position="8">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group seperator="true" action_type="-1" position="5">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
@@ -15,7 +10,7 @@
       <path value="Local Changes Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Changelists" is_group="true" action_type="-1" position="4">
+    <group value="&lt;anonymous-group-1&gt;" is_group="true" action_type="-1" position="4">
       <path value="root" />
       <path value="Local Changes Toolbar" />
       <option name="myInitialPosition" value="-1" />
@@ -38,16 +33,15 @@
       <path value="Translation Toolbar Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group seperator="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Translation Toolbar Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="NavBarVcsGroup" is_group="true" action_type="-1" position="2">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="AsyncProfiler" is_action="true" action_type="-1" position="2">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <path value="Toolbar Run Actions" />
-      <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="ChangesView.Revert" is_action="true" action_type="-1" position="2">
@@ -78,6 +72,11 @@
       <path value="MainToolBarSettings" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="TranslationPopupMenu" is_group="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group seperator="true" action_type="-1" position="0">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
@@ -89,6 +88,12 @@
       <path value="Navigation Bar Toolbar" />
       <path value="NavBarToolBarOthers" />
       <path value="Tasks toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Translation Toolbar Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group seperator="true" action_type="-1" position="0">
