@@ -53,14 +53,14 @@
       <path value="Translation Toolbar Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="ChangesView.Diff" is_action="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Local Changes Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="NavBarVcsGroup" is_group="true" action_type="-1" position="2">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="ChangesView.Revert" is_action="true" action_type="-1" position="2">
-      <path value="root" />
-      <path value="Local Changes Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group seperator="true" action_type="-1" position="1">
@@ -110,17 +110,12 @@
       <path value="Translation Toolbar Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ChangesView.Refresh" is_action="true" action_type="-1" position="0">
-      <path value="root" />
-      <path value="Local Changes Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="Vcs.UpdateProject" is_action="true" action_type="1" position="0">
       <path value="root" />
       <path value="Local Changes Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ChangesView.Revert" is_action="true" action_type="1" position="2">
+    <group value="ChangesView.Diff" is_action="true" action_type="1" position="1">
       <path value="root" />
       <path value="Local Changes Toolbar" />
       <option name="myInitialPosition" value="-1" />
@@ -130,17 +125,12 @@
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="CheckinProject" is_action="true" action_type="1" position="3">
-      <path value="root" />
-      <path value="Local Changes Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="RunAnything" is_action="true" action_type="1" position="4">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Vcs.Push" is_action="true" action_type="1" position="4">
+    <group value="CheckinProject" is_action="true" action_type="1" position="4">
       <path value="root" />
       <path value="Local Changes Toolbar" />
       <option name="myInitialPosition" value="-1" />
@@ -148,6 +138,11 @@
     <group value="ShowProjectStructureSettings" is_action="true" action_type="1" position="5">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Vcs.Push" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Local Changes Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
   </component>
