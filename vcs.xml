@@ -1,4 +1,14 @@
 <application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://10.7.3.190:9099" />
+          <option name="userName" value="wentong" />
+        </UrlAndUserName>
+      </list>
+    </option>
+  </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
   </component>
