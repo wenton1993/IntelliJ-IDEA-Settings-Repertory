@@ -45,14 +45,14 @@
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="ChangesView.Revert" is_action="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Local Changes Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group seperator="true" action_type="-1" position="1">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="CheckinProject" is_action="true" action_type="-1" position="1">
-      <path value="root" />
-      <path value="Local Changes Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="ToolbarRunGroup" is_group="true" action_type="-1" position="0">
@@ -80,7 +80,7 @@
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="CheckinProject" is_action="true" action_type="1" position="4">
+    <group value="ChangesView.Revert" is_action="true" action_type="1" position="2">
       <path value="root" />
       <path value="Local Changes Toolbar" />
       <option name="myInitialPosition" value="-1" />
