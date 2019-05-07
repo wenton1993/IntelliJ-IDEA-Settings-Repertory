@@ -10,17 +10,17 @@
       <path value="Local Changes Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ChangesView.Revert" is_action="true" action_type="-1" position="2">
+    <group value="CheckinProject" is_action="true" action_type="-1" position="1">
       <path value="root" />
       <path value="Local Changes Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Vcs.UpdateProject" is_action="true" action_type="1" position="0">
+    <group value="Vcs.UpdateProject" is_action="true" action_type="1" position="1">
       <path value="root" />
       <path value="Local Changes Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ChangesView.Revert" is_action="true" action_type="1" position="1">
+    <group value="CheckinProject" is_action="true" action_type="1" position="3">
       <path value="root" />
       <path value="Local Changes Toolbar" />
       <option name="myInitialPosition" value="-1" />
