@@ -22,6 +22,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="wenton1993" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.7.3.190:9099/hjb-bizware/hejb.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\wento\Project\Kayakwise" />
