@@ -46,6 +46,14 @@
           <option name="url" value="http://172.16.50.222:82" />
           <option name="userName" value="wen_tong@hisuntech.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://172.16.50.222:82/businessfront/loan/n-mpl.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://172.16.50.222:82/businessfront/loan/loan-channel-backend.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\wento\Project\Hisun" />
