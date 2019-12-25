@@ -58,6 +58,10 @@
           <option name="url" value="http://172.16.50.222:82/businessfront/loan/h5-backend.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://172.16.50.222:82/gateway/api-gateway/loan-gateway.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\wento\Project\Hisun" />
