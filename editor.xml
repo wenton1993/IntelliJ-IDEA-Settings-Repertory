@@ -1,4 +1,7 @@
 <application>
+  <component name="CodeInsightSettings">
+    <EXCLUDED_PACKAGE NAME="java.util.List" />
+  </component>
   <component name="EditorSettings">
     <option name="SHOW_BREADCRUMBS" value="false" />
   </component>
