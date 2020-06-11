@@ -1,5 +1,6 @@
 <application>
   <component name="EasyCodeSetting">
+    <option name="author" value="文通" />
     <option name="currTemplateGroupName" value="MybaitsPlus-WT" />
     <option name="templateGroupMap">
       <map>
