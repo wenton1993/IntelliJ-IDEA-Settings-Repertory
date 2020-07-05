@@ -5,9 +5,9 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="kkf2" type="PLAIN_TEXT" />
       <mapping ext="mustache\" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="DemoMapper" type="XML" />
       <mapping ext="mustache" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
