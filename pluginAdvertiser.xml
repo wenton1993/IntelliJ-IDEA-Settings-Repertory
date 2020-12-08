@@ -1694,12 +1694,12 @@
                   </entry>
                   <entry key="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Plugin" pluginName="Plugin DevKit" pluginId="DevKit" />
+                      <FeaturePluginData displayName="插件" pluginName="Plugin DevKit" pluginId="DevKit" />
                     </value>
                   </entry>
                   <entry key="Application">
                     <value>
-                      <FeaturePluginData displayName="Application" pluginName="Java" pluginId="com.intellij.java" />
+                      <FeaturePluginData displayName="应用程序" pluginName="Java" pluginId="com.intellij.java" />
                     </value>
                   </entry>
                   <entry key="CompoundRunConfigurationType">
@@ -1709,7 +1709,7 @@
                   </entry>
                   <entry key="DatabaseScript">
                     <value>
-                      <FeaturePluginData displayName="Database Script" pluginName="Database Tools and SQL" pluginId="com.intellij.database" />
+                      <FeaturePluginData displayName="数据库脚本" pluginName="Database Tools and SQL" pluginId="com.intellij.database" />
                     </value>
                   </entry>
                   <entry key="GradleRunConfiguration">
@@ -1729,12 +1729,12 @@
                   </entry>
                   <entry key="JarApplication">
                     <value>
-                      <FeaturePluginData displayName="JAR Application" pluginName="Java" pluginId="com.intellij.java" />
+                      <FeaturePluginData displayName="JAR 应用程序" pluginName="Java" pluginId="com.intellij.java" />
                     </value>
                   </entry>
                   <entry key="Java Scratch">
                     <value>
-                      <FeaturePluginData displayName="Java Scratch" pluginName="Java" pluginId="com.intellij.java" />
+                      <FeaturePluginData displayName="Java 草稿" pluginName="Java" pluginId="com.intellij.java" />
                     </value>
                   </entry>
                   <entry key="JavaScriptTestRunnerJest">
@@ -1754,7 +1754,7 @@
                   </entry>
                   <entry key="KotlinStandaloneScriptRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Kotlin script" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" />
+                      <FeaturePluginData displayName="Kotlin 脚本" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" />
                     </value>
                   </entry>
                   <entry key="MavenRunConfiguration">
@@ -1764,7 +1764,7 @@
                   </entry>
                   <entry key="Remote">
                     <value>
-                      <FeaturePluginData displayName="Remote JVM Debug" pluginName="Java" pluginId="com.intellij.java" />
+                      <FeaturePluginData displayName="远程 JVM 调试" pluginName="Java" pluginId="com.intellij.java" />
                     </value>
                   </entry>
                   <entry key="ShConfigurationType">
@@ -1784,7 +1784,7 @@
                   </entry>
                   <entry key="TSqltConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="tSQLt Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" />
+                      <FeaturePluginData displayName="tSQLt 测试" pluginName="Database Tools and SQL" pluginId="com.intellij.database" />
                     </value>
                   </entry>
                   <entry key="TomeeConfiguration">
@@ -1794,7 +1794,7 @@
                   </entry>
                   <entry key="UtPlSqlConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="utPLSQL Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" />
+                      <FeaturePluginData displayName="utPLSQL 测试" pluginName="Database Tools and SQL" pluginId="com.intellij.database" />
                     </value>
                   </entry>
                   <entry key="docker-deploy">
@@ -1839,7 +1839,7 @@
                   </entry>
                   <entry key="WebServicesClient">
                     <value>
-                      <FeaturePluginData displayName="WebServices Client" pluginName="Java EE: Web Services (JAX-WS)" pluginId="com.jetbrains.jax.ws" />
+                      <FeaturePluginData displayName="WebServices 客户端" pluginName="Java EE: Web Services (JAX-WS)" pluginId="com.jetbrains.jax.ws" />
                     </value>
                   </entry>
                   <entry key="ejb">
@@ -1854,7 +1854,7 @@
                   </entry>
                   <entry key="javaeeApplication">
                     <value>
-                      <FeaturePluginData displayName="JavaEE Application" pluginName="Java EE Platform" pluginId="com.intellij.javaee" />
+                      <FeaturePluginData displayName="JavaEE 应用程序" pluginName="Java EE Platform" pluginId="com.intellij.javaee" />
                     </value>
                   </entry>
                   <entry key="jpa">
@@ -1889,27 +1889,27 @@
                 <map>
                   <entry key="ear">
                     <value>
-                      <FeaturePluginData displayName="JavaEE Application: Archive" pluginName="Java EE Platform" pluginId="com.intellij.javaee" />
+                      <FeaturePluginData displayName="JavaEE 应用程序: 存档" pluginName="Java EE Platform" pluginId="com.intellij.javaee" />
                     </value>
                   </entry>
                   <entry key="ejb-jar">
                     <value>
-                      <FeaturePluginData displayName="EJB Application: Archive" pluginName="Java EE Platform" pluginId="com.intellij.javaee" />
+                      <FeaturePluginData displayName="EJB 应用程序: 存档" pluginName="Java EE Platform" pluginId="com.intellij.javaee" />
                     </value>
                   </entry>
                   <entry key="exploded-ear">
                     <value>
-                      <FeaturePluginData displayName="JavaEE Application: Exploded" pluginName="Java EE Platform" pluginId="com.intellij.javaee" />
+                      <FeaturePluginData displayName="JavaEE 应用程序: 分离型" pluginName="Java EE Platform" pluginId="com.intellij.javaee" />
                     </value>
                   </entry>
                   <entry key="exploded-ejb">
                     <value>
-                      <FeaturePluginData displayName="EJB Application: Exploded" pluginName="Java EE Platform" pluginId="com.intellij.javaee" />
+                      <FeaturePluginData displayName="EJB 应用程序: 分离型" pluginName="Java EE Platform" pluginId="com.intellij.javaee" />
                     </value>
                   </entry>
                   <entry key="exploded-war">
                     <value>
-                      <FeaturePluginData displayName="Web Application: Exploded" pluginName="Java EE Platform" pluginId="com.intellij.javaee" />
+                      <FeaturePluginData displayName="Web 应用程序: 分离型" pluginName="Java EE Platform" pluginId="com.intellij.javaee" />
                     </value>
                   </entry>
                   <entry key="jar">
@@ -1919,12 +1919,12 @@
                   </entry>
                   <entry key="plain">
                     <value>
-                      <FeaturePluginData displayName="Other" pluginName="Java" pluginId="com.intellij.java" />
+                      <FeaturePluginData displayName="其它" pluginName="Java" pluginId="com.intellij.java" />
                     </value>
                   </entry>
                   <entry key="war">
                     <value>
-                      <FeaturePluginData displayName="Web Application: Archive" pluginName="Java EE Platform" pluginId="com.intellij.javaee" />
+                      <FeaturePluginData displayName="Web 应用程序: 存档" pluginName="Java EE Platform" pluginId="com.intellij.javaee" />
                     </value>
                   </entry>
                 </map>
