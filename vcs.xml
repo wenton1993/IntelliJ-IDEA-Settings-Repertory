@@ -94,6 +94,18 @@
           <option name="url" value="https://github.com/wenton1993/wentong.github.io.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://junruitpddns.cn:6001/hngf/hndykkx.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://junrui.tpddns.cn:6001/hngf/hndykkx.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://junrui.tpddns.cn:6001" />
+          <option name="userName" value="wtxf01" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\wento\Desktop\Documents\Project" />
